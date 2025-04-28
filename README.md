@@ -8,17 +8,17 @@
 
 - 🔭 I’m currently pursuing my Masters in [University of Southern California](https://www.usc.edu/)
 
-- 🌱 Currently building projects in **Artificial Intelligence and Machine Learning**, with a focus on real-world applications.
+- 🌱 Currently building projects in **NLP and Web Technology**, with a focus on real-world applications.
 
 - 🧠 Actively exploring research opportunities in **AI/ML labs** and looking to contribute to innovative work in the field.
 
-- 💻 Skilled in **Python**, **TensorFlow**, **PyTorch**, and machine learning tools like **Jupyter Notebook**, **NumPy** and **Pandas**.
+- 💻 Skilled in **React**, **Node**, **Angular**, and machine learning tools like **Jupyter Notebook**, **NumPy** and **Pandas**.
 
 - 📬 Reach me at **dalavi@usc.edu**
 
 - 🗣 Pronouns: **He/Him**
 
-- 🤹 Fun fact: **My code works... until someone watches me run it.**
+- 🤹 Fun fact: **My code only breaks when I tell someone it’s finally working.**
 
 <div align="center">
 <a href="https://www.github.com/nirajdalavi" target="_blank" rel="noreferrer"><img
