@@ -22,7 +22,7 @@
 
 <div align="center">
 <a href="https://www.github.com/nirajdalavi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ak736?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/nirajdalavi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </div>
 <br>
 
